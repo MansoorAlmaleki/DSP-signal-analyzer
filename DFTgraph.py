@@ -201,9 +201,8 @@ while RunProgram:
                 RealPart += YcoordinateData[j] * math.cos((2 * math.pi * i * j) / TotalSamples)
                 ImaginaryPart += YcoordinateData[j] * math.sin((2 * math.pi * i * j) / TotalSamples)
 
-            Magnitude = math.sqrt((RealPart) ** 2 + (ImaginaryPart) ** 2)  # using the distance formula as the real and imaginary vector are 90 degrees apart
-            # the orthogonal vectors are added to get a new vector with a certain phase angle and magnitude, here i only take the magnitude by applying the distance
-            # formula on the new vectors x part and y part
+            Magnitude = math.sqrt((RealPart) ** 2 + (ImaginaryPart) ** 2) # the distance formula is used to find the the total magnitude of the two orthogonal vectors
+            #the magnitude is used for the intensity, we can also get the phase component by applying an inverse tangent function on the vertical component over the horizontal component tan^-1(y/x)
             RealPart = 0
             ImaginaryPart = 0
             DFTYcoordinateData.append(Magnitude)
