@@ -25,11 +25,15 @@ An interactive desktop application built to visualize complex signal generation 
 ![Alt text](IMG_5478.jpeg)
 
 *where*
+
  Xk (Frequency Domain Output): The complex coefficient representing the signal's amplitude and phase at the specific frequency bin k.
  
  xn (Time Domain Input): The discrete sample value of your signal at time index n.
+ 
  N (Total Samples): The total number of data points collected in your signal buffer.
+ 
  n (Time Index): The current sample number in the time domain, ranging from 0 to N-1.
+ 
  k (Frequency Bin Index): The target frequency component you are evaluating, ranging from 0 to N-1.
 
 
@@ -43,5 +47,5 @@ An interactive desktop application built to visualize complex signal generation 
 
 **Frequency domain analysis**
 
-![Alt text](DFTplot.png)
+![Alt text](DFT_plot.png)
  
