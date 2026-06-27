@@ -4,6 +4,7 @@
 An interactive desktop application built to visualize complex signal generation and analyze them using the Discrete Fourier Transform. This project was created as a practical exercise to refresh core programming skills and implement a Fourier transform algorithm from scratch
 
 *Features:*
+
  • Multi Instance Signal Generation by Adding and layering multiple individual sine wave components to create a complex, composite signal.
  
  • Dynamic Parameter Control by Finetuning individual wave components using dedicated controls such as
