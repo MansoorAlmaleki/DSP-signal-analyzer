@@ -22,6 +22,8 @@ An interactive desktop application built to visualize complex signal generation 
 
 **Mathematical equation**
 
+![Alt text](IMG_5478.jpeg)
+
 *where*
  Xk (Frequency Domain Output): The complex coefficient representing the signal's amplitude and phase at the specific frequency bin k.
  
@@ -32,12 +34,14 @@ An interactive desktop application built to visualize complex signal generation 
 
 
  **Program interface**
-
+ 
+![Alt text](programGui.png)
 
  **Time domain analysis**
-
+ 
+![Alt text](TimeDomainPlot.png)
 
 **Frequency domain analysis**
 
-
+![Alt text](DFTplot.png)
  
