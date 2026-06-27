@@ -17,6 +17,9 @@ An interactive desktop application built to visualize complex signal generation 
    Frequency Domain Graph: Runs the DFT algorithm to uncover the hidden individual frequencies and their respective strengths.
 
 
+  
+
+
 **Mathematical equation**
 
 *where*
