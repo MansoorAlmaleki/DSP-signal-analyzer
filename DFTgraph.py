@@ -15,7 +15,7 @@ ScreenWidth = 1280
 ScreenHeight = 720
 IncrementValue = 1
 screen = pygame.display.set_mode((ScreenWidth,ScreenHeight))
-pygame.display.set_caption("DFT test")
+pygame.display.set_caption("DSP analyzer")
 
 #recorded time = TotalSamples/SampleRate which in this case is a second
 #nyquist sampling theorem states that higher frequency signal we can view with out aliasing is half the sample rate (512Hz) in this case at
