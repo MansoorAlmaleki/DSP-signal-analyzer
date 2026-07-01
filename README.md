@@ -20,7 +20,7 @@ A desktop application built to visualize signal generation and analyze them usin
   
 
 
-**Mathematical equation**
+**DFT equation**
 
 ![Alt text](IMG_5478.jpeg)
 
