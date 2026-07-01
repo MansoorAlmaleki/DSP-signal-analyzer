@@ -6,8 +6,10 @@ import math
 pygame.init()
 plt.ion
 clock = pygame.time.Clock()
+
 font = pygame.font.SysFont("Arial", 30)
 smallfont = pygame.font.SysFont("Arial", 15)
+
 graph = False
 DFT = False
 
