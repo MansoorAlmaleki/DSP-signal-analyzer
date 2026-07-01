@@ -1,7 +1,7 @@
 **Interactive DFT & Signal Visualizer**
 
 
-A desktop application built to visualize signal generation and analyze them using the Discrete Fourier Transform
+A desktop application built to visualize generated signals and analyze them using the Discrete Fourier Transform
 
 *Features:*
 
