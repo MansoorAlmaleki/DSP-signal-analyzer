@@ -28,7 +28,7 @@ A desktop application built to visualize generated signals and analyze them usin
 
  Xk (Frequency Domain Output): The complex coefficient representing the signal's amplitude and phase at the specific frequency bin k.
  
- xn (Time Domain Input): The discrete sample value of your signal at time index n
+ Xn (Time Domain Input): The discrete sample value of your signal at time index n
  
  N (Total Samples): The total number of samples collected in the data buffer
  
