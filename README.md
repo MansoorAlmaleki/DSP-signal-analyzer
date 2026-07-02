@@ -22,7 +22,7 @@ A desktop application built to visualize generated signals and analyze them usin
 
 **DFT equation**
 
-![Alt text](IMG_5478.jpeg)
+![Alt text](Equation1.jpeg)
 
 *where*
 
