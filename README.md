@@ -37,10 +37,6 @@ A desktop application built to visualize generated signals and analyze them usin
  k (Frequency Bin Index): The target frequency component you are evaluating, ranging from 0 to N-1
 
 
- **Program interface**
- 
-![Alt text](programGui.png)
-
  **Time domain analysis**
  
 ![Alt text](TimeDomainPlot.png)
